@@ -1,4 +1,4 @@
-SplashLibrary
+SplashLibrary(持续更新中)
 =============
 
 
